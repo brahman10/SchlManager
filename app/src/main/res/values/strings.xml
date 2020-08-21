@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">White Tiger School Online</string>
+    <string name="sign_in">Sign In</string>
+    <string name="log_in">Login</string>
+    <string name="or_signup_with">Or Signup With</string>
+    <string name="sign_up">Sign Up</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="classes">
+        <item>Choose Class</item>
+        <item>Class 1</item>
+        <item>Class 2</item>
+        <item>Class 3</item>
+        <item>Class 4</item>
+        <item>Class 5</item>
+        <item>Class 6</item>
+        <item>Class 7</item>
+        <item>Class 8</item>
+        <item>Class 9</item>
+        <item>Class 10</item>
+        <item>Class 11</item>
+        <item>Class 12</item>
+    </string-array>
+
+    <string-array name="teachers">
+        <item>Choose Faculty</item>
+        <item>Yash Chaturvedi</item>
+        <item>Shubham Jindal</item>
+        <item>Vasudev Tiwari</item>
+        <item>Barkha Chaturvedi</item>
+    </string-array>
+</resources>
